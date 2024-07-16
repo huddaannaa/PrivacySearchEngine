@@ -63,7 +63,7 @@ Given the extensive privacy concerns associated with traditional search engines,
 
 ## IV. Proposed Solution: A Privacy-Respecting Meta Search Engine
 ### A. Design Principles
-The proposed meta search engine,[ https://got.ress.com/](https://go.researchbus.com/), is designed with the following principles in mind:
+The proposed meta search engine,[ [https://got.ress.com/](https://go.researchbus.com/)](https://go.researchbus.com/), is designed with the following principles in mind:
 1. **No Data Collection**: The search engine does not collect or store any personal data, ensuring complete user privacy.
 2. **Encryption**: All search queries and results are encrypted to prevent unauthorized access and ensure data security.
 3. **Transparency**: The search engine operates with full transparency, providing users with clear information about its privacy practices.
