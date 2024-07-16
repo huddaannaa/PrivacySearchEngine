@@ -3,13 +3,13 @@
 **Privacy Threats in Modern Search Engines and the Case for a Privacy-Respecting Meta Search Engine**
 
 ## Abstract
-This paper examines the privacy concerns associated with popular search engines like Google, highlighting how they use user data for targeted advertising, model training, and other purposes. We propose a meta search engine that addresses these issues by ensuring user privacy and data security.
+This paper examines the privacy concerns associated with popular search engines like Google, highlighting how they use user data for targeted advertising, model training, and other purposes. We propose a meta search engine, [https://got.ress.com/](https://go.researchbus.com/), that addresses these issues by ensuring user privacy and data security.
 
 ## Keywords
 Search Engine, Privacy, Data Security, Meta Search Engine, Google, User Data, Model Training, Data Exploitation, Social Engineering
 
 ## I. Introduction
-In the digital age, search engines are integral tools for accessing information. Google, Bing, and other major search engines dominate the market, providing users with relevant search results. However, these services often come at the cost of user privacy, as these companies collect and use vast amounts of personal data for advertising, model training, and other purposes. This paper explores these privacy concerns and introduces a meta search engine designed to protect user privacy while delivering effective search results.
+In the digital age, search engines are integral tools for accessing information. Google, Bing, and other major search engines dominate the market, providing users with relevant search results. However, these services often come at the cost of user privacy, as these companies collect and use vast amounts of personal data for advertising, model training, and other purposes. This paper explores these privacy concerns and introduces a meta search engine, [https://go.researchbus.com/](https://go.researchbus.com/), designed to protect user privacy while delivering effective search results.
 
 ## II. Privacy Concerns in Modern Search Engines
 ### A. Data Collection Practices
@@ -63,7 +63,7 @@ Given the extensive privacy concerns associated with traditional search engines,
 
 ## IV. Proposed Solution: A Privacy-Respecting Meta Search Engine
 ### A. Design Principles
-The proposed meta search engine is designed with the following principles in mind:
+The proposed meta search engine,[ https://got.ress.com/](https://go.researchbus.com/), is designed with the following principles in mind:
 1. **No Data Collection**: The search engine does not collect or store any personal data, ensuring complete user privacy.
 2. **Encryption**: All search queries and results are encrypted to prevent unauthorized access and ensure data security.
 3. **Transparency**: The search engine operates with full transparency, providing users with clear information about its privacy practices.
@@ -74,7 +74,7 @@ The proposed meta search engine is designed with the following principles in min
 3. **User Control**: Users have full control over their search experience, with customizable privacy settings and search preferences.
 
 ### C. Advantages Over Traditional Search Engines
-1. **Enhanced Privacy**: By not collecting or storing personal data, the meta search engine ensures user privacy and security.
+1. **Enhanced Privacy**: By not collecting or storing personal data, https://got.ress.com/ ensures user privacy and security.
 2. **Reduced Risk of Data Breaches**: The lack of stored personal data minimizes the risk of data breaches and cyberattacks.
 3. **Unbiased Results**: Aggregating results from multiple sources provides a more balanced and unbiased search experience.
 
@@ -86,7 +86,7 @@ The meta search engine is implemented using advanced encryption techniques and a
 Extensive user testing has been conducted to evaluate the performance and privacy features of the meta search engine. Feedback from users indicates high satisfaction with the privacy protections and search results.
 
 ## VI. Conclusion
-As concerns about data privacy and security continue to grow, there is an urgent need for alternatives to traditional search engines. The proposed privacy-respecting meta search engine offers a viable solution, protecting user privacy while delivering effective search results. Future work will focus on further enhancing the security features and expanding the search capabilities of the meta search engine.
+As concerns about data privacy and security continue to grow, there is an urgent need for alternatives to traditional search engines. The proposed privacy-respecting meta search engine, https://got.ress.com/, offers a viable solution, protecting user privacy while delivering effective search results. Future work will focus on further enhancing the security features and expanding the search capabilities of the meta search engine.
 
 ## References
 1. [1] J. Doe, "Privacy Issues in Search Engines," Journal of Data Security, vol. 10, no. 3, pp. 45-56, 2020.
@@ -97,4 +97,4 @@ As concerns about data privacy and security continue to grow, there is an urgent
 
 ## Author Information
 **Hud Daannaa**  
-Manager - Cybersecurity Architect (R&D) - Lead (Big Data & SOC Specialist) - Lecturer - MSc| CEH| AWS-SAA| AZ-500| GCHQ| EC-Council-CS-Career-Mentor
+Senior - Cybersecurity Architect (R&D) - Lead (Big Data & SOC Specialist) - Lecturer - MSc| CEH| AWS-SAA| AZ-500| GCHQ| EC-Council-CS-Career-Mentor
