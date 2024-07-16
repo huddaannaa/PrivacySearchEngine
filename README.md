@@ -3,7 +3,7 @@
 **Privacy Threats in Modern Search Engines and the Case for a Privacy-Respecting Meta Search Engine**
 
 ## Abstract
-This paper examines the privacy concerns associated with popular search engines like Google, highlighting how they use user data for targeted advertising, model training, and other purposes. We propose a meta search engine, [https://got.ress.com/](https://go.researchbus.com/), that addresses these issues by ensuring user privacy and data security.
+This paper examines the privacy concerns associated with popular search engines like Google, highlighting how they use user data for targeted advertising, model training, and other purposes. We propose a meta search engine, [https://go.researchbus.com/](https://go.researchbus.com/), that addresses these issues by ensuring user privacy and data security.
 
 ## Keywords
 Search Engine, Privacy, Data Security, Meta Search Engine, Google, User Data, Model Training, Data Exploitation, Social Engineering
