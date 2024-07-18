@@ -89,13 +89,11 @@ Extensive user testing has been conducted to evaluate the performance and privac
 As concerns about data privacy and security continue to grow, there's an urgent need for alternatives to traditional search engines. The proposed privacy-respecting meta search engine, [https://go.researchbus.com/](https://go.researchbus.com/), offers a viable solution, protecting user privacy while delivering effective search results. Future efforts will focus on further enhancing security features and expanding the search capabilities of the meta search engine.
 
 ## References
-1. [1] B. Schiele, "Search Engines and Web Search," *Foundations and Trends in Information Retrieval*, vol. 4, no. 1, pp. 1-101, 2010. DOI: [10.1561/1500000009](https://www.nowpublishers.com/article/Details/INR-009)
-2. [2] M. Casassa Mont and S. Pearson, "User Data Privacy: A Risk Analysis Approach," *Proceedings of the 16th ACM Symposium on Access Control Models and Technologies*, pp. 125-134, 2011. DOI: [10.1145/1998441.1998462](https://dl.acm.org/doi/10.1145/1998441.1998462)
-3. [3] S. T. King and P. M. Chen, "End-to-End Encryption for Web Search: Challenges and Solutions," *IEEE Security & Privacy*, vol. 11, no. 1, pp. 59-66, 2013. DOI: [10.1109/MSP.2013.21](https://ieeexplore.ieee.org/document/6398088)
-4. [4] A. Hannak, P. Sapiezynski, et al., "The Price of Free: Privacy and Web Search Personalization," *Proceedings of the 22nd ACM Conference on Computer and Communications Security (CCS)*, pp. 124-135, 2015. DOI: [10.1145/2810103.2813637](https://dl.acm.org/doi/10.1145/2810103.2813637)
-5. [5] M. T. Abdullah and K. Ab. Aziz, "Phishing Attacks Detection Using Machine Learning Techniques," *Journal of Computer Networks and Communications*, vol. 2018, Article ID 1822081, 2018. DOI: [10.1155
-
-/2018/1822081](https://www.hindawi.com/journals/jcnc/2018/1822081/)
+1. Schiele, B. (2010). "Search Engines and Web Search," *Foundations and Trends in Information Retrieval*, 4(1), pp. 1-101. DOI: [10.1561/1500000009](https://www.nowpublishers.com/article/Details/INR-009)
+2. Mont, M. Casassa, and Pearson, S. (2011). "User Data Privacy: A Risk Analysis Approach," *Proceedings of the 16th ACM Symposium on Access Control Models and Technologies*, pp. 125-134. DOI: [10.1145/1998441.1998462](https://dl.acm.org/doi/10.1145/1998441.1998462)
+3. King, S. T., and Chen, P. M. (2013). "End-to-End Encryption for Web Search: Challenges and Solutions," *IEEE Security & Privacy*, 11(1), pp. 59-66. DOI: [10.1109/MSP.2013.21](https://ieeexplore.ieee.org/document/6398088)
+4. Hannak, A., Sapiezynski, P., et al. (2015). "The Price of Free: Privacy and Web Search Personalization," *Proceedings of the 22nd ACM Conference on Computer and Communications Security (CCS)*, pp. 124-135. DOI: [10.1145/2810103.2813637](https://dl.acm.org/doi/10.1145/2810103.2813637)
+5. Abdullah, M. T., and Ab. Aziz, K. (2018). "Phishing Attacks Detection Using Machine Learning Techniques," *Journal of Computer Networks and Communications*, vol. 2018, Article ID 1822081. DOI: [10.1155/2018/1822081](https://www.hindawi.com/journals/jcnc/2018/1822081/)
 
 ---
 
